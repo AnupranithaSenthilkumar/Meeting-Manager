@@ -4,7 +4,7 @@ This document showcases the user interface and core functionalities of the Meeti
 
 ---
 
-## 1. Landing Page
+## 1. Landing Page-Admin
 ![Landing Page](./LandingPage.png)
 
 ---
