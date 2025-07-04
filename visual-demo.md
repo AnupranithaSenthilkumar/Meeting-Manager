@@ -9,35 +9,40 @@ This document showcases the user interface and core functionalities of the Meeti
 
 ---
 
-## 2. Create Meeting
+## 2. Landing Page-Participant
+![Landing Page](./LandingPageParticipant.png)
+
+---
+
+## 3. Create Meeting
 ![Create Meeting](./CreateMeeting.png)
 
 ---
 
-## 3. View Meeting Details
+## 4. View Meeting Details 
 ![View Meeting](./ViewMeeting.png)
 
 ---
 
-## 4. Edit Meeting with Conflict Detection
+## 5. Edit Meeting with Conflict Detection
 ![Edit Meeting Conflicts](./EditMeetingConflicts.png)
 
 ---
 
-## 5. In-App Notification
+## 6. In-App Notification
 ![In-App Notification](./InAppNotification.png)
 
 ---
 
-## 6. Calendar View
+## 7. Calendar View
 ![Calendar View](./CalendarView.png)
 
 ---
 
-## 7. Calendar with Conflicts
+## 8. Calendar with Conflicts
 ![Calendar Conflicts](./CalendarConflicts.png)
 
 ---
 
-## 8. Calendar Day Click Details
+## 9. Calendar Day Click Details
 ![On Click Calendar](./OnClickCalendar.png)
