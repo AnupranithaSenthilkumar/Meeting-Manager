@@ -1,14 +1,43 @@
-# Meeting Manager Screenshots
+# Meeting Manager – Visual Demo
+
+This document showcases the user interface and core functionalities of the Meeting Manager application.
+
+---
 
 ## 1. Landing Page
-![Login](C:\Users\HP\Downloads\Screenshot 2025-04-15 170019.png)
+![Landing Page](./LandingPage.png)
 
-## 2. Meeting Creation Page
-![Create Meeting](./images/meeting_creation.png)
+---
 
-## 3. Calendar View
-![Calendar](./images/calendar_view.png)
+## 2. Create Meeting
+![Create Meeting](./CreateMeeting.png)
 
-## 4. Notifications
-![Notifications](./images/notifications.png)
+---
 
+## 3. View Meeting Details
+![View Meeting](./ViewMeeting.png)
+
+---
+
+## 4. Edit Meeting with Conflict Detection
+![Edit Meeting Conflicts](./EditMeetingConflicts.png)
+
+---
+
+## 5. In-App Notification
+![In-App Notification](./InApp Notification.png)
+
+---
+
+## 6. Calendar View
+![Calendar View](./CalendarView.png)
+
+---
+
+## 7. Calendar with Conflicts
+![Calendar Conflicts](./CalendarConflicts.png)
+
+---
+
+## 8. Calendar Day Click Details
+![On Click Calendar](./OnClickCalendar.png)
