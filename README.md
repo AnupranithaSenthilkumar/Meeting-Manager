@@ -1,2 +1,15 @@
-# Meeting-Manager
-The Meeting Manager is a web-based application designed to help users efficiently manage meetings and collaborate with team members. The application provides ability to create and manage meetings, invite participants, send notifications, schedule  meetings, share files, track meeting statuses and generate analytics and reports. 
+# Meeting Manager
+
+## Overview
+The Meeting Manager is a web-based application designed to help users efficiently manage meetings, collaborate with teams, and track analytics and performance.
+
+## Features
+- Meeting Creation & Recurrence
+- Edit Meeting
+- Participant Management with Conflict Check
+- In-app Notifications
+- File Uploads
+- Real-time Status Tracking
+- Visual Calendar View
+- Reports & Analytics
+- Conflict Resolution and Scheduling
