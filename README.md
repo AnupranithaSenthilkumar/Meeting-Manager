@@ -9,7 +9,7 @@ The Meeting Manager is a web-based application designed to help users efficientl
 - Participant Management with Conflict Check
 - In-app Notifications
 - File Uploads
-- Real-time Status Tracking
+- Dynamic Status Updation using Quartz Scheduler
 - Visual Calendar View
 - Reports & Analytics
 - Conflict Resolution and Scheduling
