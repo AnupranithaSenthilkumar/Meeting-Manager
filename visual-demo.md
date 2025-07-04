@@ -25,7 +25,7 @@ This document showcases the user interface and core functionalities of the Meeti
 ---
 
 ## 5. In-App Notification
-![In-App Notification](./InApp Notification.png)
+![In-App Notification](./InAppNotification.png)
 
 ---
 
